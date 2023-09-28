@@ -1,0 +1,11 @@
+collect info from user
+make a program to show you all models of mobile-file.
+mobile to choose:search-info show of that mobile.
+add to cart.
+add more item
+dicount coupen;
+last address,name,no,pin,state;
+tracking status.
+delivered
+
+search the model if user want to add to cart then add and 
